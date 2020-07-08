@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="2f0e-dd91-7676-722d" name="Aeldari - Ynnari" book="Index: Xenos 1" revision="33" battleScribeVersion="2.01" authorName="Simon Porter" authorContact="FarseerVeraenthis on Gitter" gameSystemId="28ec-711c-d87f-3aeb" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
-  <profiles/>
-  <rules/>
-  <infoLinks/>
-  <costTypes/>
+<catalogue id="2f0e-dd91-7676-722d" name="Aeldari - Ynnari" revision="47" battleScribeVersion="2.03" authorName="BSData Developers" authorContact="@WindstormSCR" authorUrl="https://discord.gg/KqPVhds" library="true" gameSystemId="28ec-711c-d87f-3aeb" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <publications>
+    <publication id="2f0e-dd91-pubN65537" name="Index: Xenos 1"/>
+    <publication id="6a4d-2a41-5e6b-c57a" name="White Dwarf May 2019"/>
+  </publications>
   <profileTypes>
     <profileType id="d0ed-4df2-0d98-e45f" name="Distort Fields">
       <characteristicTypes>
@@ -13,1676 +13,842 @@
     </profileType>
   </profileTypes>
   <categoryEntries>
-    <categoryEntry id="ebb3-4f37-6e57-7a8e" name="Faction: Ynnari" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="0532-dbd6-bf12-340b" name="Faction: Aeldari" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="c8df-4b67-2b52-4472" name="Yvraine" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="48e7-cfd4-1ea3-5847" name="The Visarch" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="94b1-311f-cf71-99dd" name="Daemon" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="956e-26fb-23a4-520d" name="The Yncarne" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="fb5a-2f35-6253-b891" name="Faction: &lt;Masque&gt;" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="f406-94c7-4d73-4784" name="Faction: Harlequins" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="c651-cc0a-9e8e-5eb4" name="Faction: &lt;Craftworld&gt;" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="e904-c2b3-6e04-3ee6" name="Faction: Asuryani" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="663e-2a3e-e3a4-f250" name="Faction: Warhost" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="9a3e-947f-26da-d343" name="Faction: Spirit Host" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="c1a6-1c19-4bba-5f28" name="Faction: Aspect Warrior" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="efaf-e8e1-3601-d520" name="Faction: Ulthwe" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="d467-20f9-c557-a29b" name="Eldrad Ulthran" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="6728-e358-e2d7-104e" name="Faction: Iyanden" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="1182-3de6-0210-b48b" name="Prince Yriel" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="845c-836a-e0ce-58d4" name="Faction: Alaitoc" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="37a3-fa39-1ed7-c3c8" name="Illic Nightspear" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="1df6-6b35-ab52-1df3" name="Phoenix Lord" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="7799-7614-a4d1-4373" name="Asurmen" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="884a-56b0-92e7-86e9" name="Jain Zar" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="cd5a-b254-0a72-ab15" name="Karandras" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="ab05-1be9-a584-5fd9" name="Fuegan" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="1c91-b408-59c9-20cf" name="Baharroth" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="7d0d-ea19-fd93-b122" name="Maugan Ra" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="6f3a-0e93-5211-1a55" name="Autarch" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="47a3-e3b2-a520-1a21" name="Farseer" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="e5cb-a61e-a938-0031" name="Farseer Skyrunner" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="ad11-9f19-a519-ad42" name="Warlock Conclave" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="3422-62ae-2c7f-ad67" name="Warlock" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="3cfe-4c43-5d63-2e6f" name="Warlock Skyrunner Conclave" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="a5c6-ed78-9362-e64e" name="Warlock Skyrunner" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="9045-5eb0-134b-2383" name="Spiritseer" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="7a12-41e8-46eb-e204" name="Heavy Weapons Platform" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="c767-c3b1-2157-1371" name="Storm Guardians" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="433c-3e09-8df8-854c" name="Windriders" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="a814-fb66-a9ba-a309" name="Rangers" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="f09d-c043-9331-30d7" name="Dire Avengers" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="f5a0-6498-0d77-7f1b" name="Howling Banshees" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="72d7-b7b3-0773-39ce" name="Striking Scorpions" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="950d-dd7c-6f0d-1ac9" name="Fire Dragons" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="8d3b-274c-fb23-6e99" name="Wraithguard" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="9cdb-59a0-c8cb-911e" name="Wraithblades" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="ab1c-3e0d-9e37-95f7" name="Wave Serpent" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="a7be-1381-4821-093a" name="Swooping Hawks" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="faff-d107-13da-ab02" name="Warp Spiders" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="a0e6-8e8a-b08e-d4a5" name="Shining Spears" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="a4c6-b600-6bf5-b4a7" name="Crimson Hunter" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="c794-b48b-81fd-1f99" name="Vypers" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="ab4c-b7dd-220a-7ba6" name="Hemlock Wraithfighter" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="d703-f7d7-7faf-735c" name="Dark Reapers" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="ed16-2042-3626-0e38" name="Support Weapon" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="16f7-899b-fe14-7af1" name="Falcon" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="c300-1bea-11e1-f4d3" name="Fire Prism" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="987a-6224-0f1d-72b9" name="Night Spinner" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="ef1a-91be-f09a-37c0" name="War Walker" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="098f-0f1f-3de8-6bdf" name="Wraithlord" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="e914-5eb3-6f82-d973" name="Wraithknight" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="18ed-c84e-77ae-c059" name="Guardian Defenders" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="e109-8a25-0b6f-b989" name="Faction: &lt;Conclave&gt;" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="37a8-fb2c-897c-dbfc" name="Wraith-Titan" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="e6eb-2969-fc90-378b" name="Phantom Titan" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="f813-382a-f375-fdd5" name="Irillyth" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="8fcf-1689-f668-c645" name="Jet Pack" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="e212-d8df-44f2-4eb6" name="Revenant Titan" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="c22b-bcbf-2468-706d" name="Skathach Wraithknight" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="cd22-6e42-4d6c-9353" name="Vampire" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="82f8-6909-707b-b74f" name="Vampire Hunter" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="3fd0-5ab9-cebe-0e6f" name="Vampire Raider" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="e6ce-8426-c595-9021" name="Phoenix" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="40de-c71d-1e39-814f" name="Nightwing" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="fd41-5478-c04f-a9bf" name="Cobra" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="e14d-a4bb-e62d-3a3e" name="Scorpion" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="be26-976e-8999-9637" name="Lynx" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="2a81-2cd9-f41e-c8fc" name="Warp Hunter" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="4323-86e4-ec61-7fe9" name="Hornet" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="56c9-39b1-fa10-bac3" name="Wraithseer" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="4184-aabf-f4ff-e36b" name="Wasp Assault Walker" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="0a13-6e29-c856-25ed" name="Shadow Spectres" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="dd05-8f0e-b393-b91f" name="Archon" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="4d1f-6a82-9ae1-3b0a" name="Beastmaster" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="d639-aa51-1f9c-5ad9" name="Clawed Fiends" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="53ad-d29f-5f37-2a82" name="Faction: &lt;Kabal&gt;" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="99c9-6127-f78b-1f66" name="Faction: &lt;Wych Cult&gt;" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="bd42-0139-0789-e05b" name="Faction: Drukhari" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="2081-49f0-1e15-a9f3" name="Faction: Incubi" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="f16a-5e3b-9a49-2b42" name="Faction: Prophets of Flesh" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="4c47-af86-571d-3176" name="Faction: Wych Cult of Strife" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="1579-ae66-e2f8-cb10" name="Grotesques" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="8fca-4ed9-4326-8a23" name="Haemonculus" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="79fd-018b-040b-0e2c" name="Hekatrix Bloodbrides" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="b15b-abaf-9eda-f855" name="Hellions" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="ff85-9ee3-28cb-691b" name="Kabalite Trueborn" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="a6a2-680c-c64c-587a" name="Kabalite Warriors" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="c3c8-70fb-2431-5e26" name="Khymerae" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="02f0-bbac-fa6c-3649" name="Lelith Hesperax" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="ddbc-68f0-64a4-9d04" name="Lhamaean" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="8c44-0452-c143-f9b0" name="Medusae" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="5b3b-1811-147a-8aa0" name="New CategoryEntry" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="465b-6b54-c2bf-cdd3" name="Raider" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="a9c2-0a4b-4e13-c1c3" name="Razorwing Flocks" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="4ee8-ef24-8efb-948e" name="Reavers" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="1ac5-97d4-4672-c325" name="Scourges" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="c9a9-0a9a-8be9-1474" name="Sslyth" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="3583-0c0b-f37a-5faa" name="Succubus" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="d1dc-6993-2368-3809" name="Talos" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="c562-0478-2bfa-f12c" name="Ur-Ghul" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="2f02-a00c-0e9e-39fc" name="Venom" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="93aa-d8fa-b826-9fbc" name="Wracks" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="5b68-0855-2fb2-1f69" name="Wyches" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="98b7-d351-e823-fc09" name="Cronos" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="8447-1ad0-d85e-4d5a" name="Reaper" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="db6a-df50-9c8f-2c52" name="Tantalus" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="6d09-575c-65b1-faa6" name="Faction: Anhrathe" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="0505-1411-a658-8f82" name="Faction: &lt;Coterie&gt;" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="1c21-a5f6-4cbf-3896" name="Corsair Skyreaver Band" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="e948-4581-ef74-7a46" name="Corsair Reaver Band" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="841d-f591-e23f-1555" name="Corsair Cloud Dancer Band" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="c3cc-22d9-1014-b496" name="Faction: &lt;Haemonculus Coven&gt;" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="99e9-e617-958e-1a73" name="Autarch Skyrunner" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="5be3-4ef8-b588-4450" name="Bonesinger" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
-    <categoryEntry id="be4f-b265-1ffd-36cd" name="Wraith Construct" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-    </categoryEntry>
+    <categoryEntry id="ebb3-4f37-6e57-7a8e" name="Faction: Ynnari" hidden="false"/>
+    <categoryEntry id="0532-dbd6-bf12-340b" name="Faction: Aeldari" hidden="false"/>
+    <categoryEntry id="c8df-4b67-2b52-4472" name="Yvraine" hidden="false"/>
+    <categoryEntry id="48e7-cfd4-1ea3-5847" name="The Visarch" hidden="false"/>
+    <categoryEntry id="94b1-311f-cf71-99dd" name="Daemon" hidden="false"/>
+    <categoryEntry id="956e-26fb-23a4-520d" name="The Yncarne" hidden="false"/>
+    <categoryEntry id="16f7-899b-fe14-7af1" name="Falcon" hidden="false"/>
+    <categoryEntry id="be4f-b265-1ffd-36cd" name="Wraith Construct" hidden="false"/>
   </categoryEntries>
-  <forceEntries/>
-  <selectionEntries/>
   <entryLinks>
-    <entryLink id="a049-52ed-ef53-63ec" name="Yvraine" hidden="false" targetId="1409-e740-c7c9-3758" type="selectionEntry">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-      <categoryLinks/>
-    </entryLink>
-    <entryLink id="a06f-ac19-7738-a420" name="The Visarch" hidden="false" targetId="6c95-9f0a-0951-30ab" type="selectionEntry">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-      <categoryLinks/>
-    </entryLink>
-    <entryLink id="ff5c-6397-4052-63eb" name="The Yncarne" hidden="false" targetId="c0ea-f722-6a2e-6d65" type="selectionEntry">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-      <categoryLinks/>
-    </entryLink>
+    <entryLink id="a049-52ed-ef53-63ec" name="Yvraine" hidden="false" collective="false" import="true" targetId="1409-e740-c7c9-3758" type="selectionEntry"/>
+    <entryLink id="a06f-ac19-7738-a420" name="The Visarch" hidden="false" collective="false" import="true" targetId="6c95-9f0a-0951-30ab" type="selectionEntry"/>
+    <entryLink id="ff5c-6397-4052-63eb" name="The Yncarne" hidden="false" collective="false" import="true" targetId="c0ea-f722-6a2e-6d65" type="selectionEntry"/>
   </entryLinks>
   <sharedSelectionEntries>
-    <selectionEntry id="1409-e740-c7c9-3758" name="Yvraine" hidden="false" collective="false" type="unit">
-      <profiles>
-        <profile id="2d06-9beb-d5d5-8636" name="Yvraine" hidden="false" profileTypeId="800f-21d0-4387-c943" profileTypeName="Unit">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <characteristics>
-            <characteristic name="M" characteristicTypeId="0bdf-a96e-9e38-7779" value="8&quot;"/>
-            <characteristic name="WS" characteristicTypeId="e7f0-1278-0250-df0c" value="2+"/>
-            <characteristic name="BS" characteristicTypeId="381b-eb28-74c3-df5f" value="2+"/>
-            <characteristic name="S" characteristicTypeId="2218-aa3c-265f-2939" value="3"/>
-            <characteristic name="T" characteristicTypeId="9c9f-9774-a358-3a39" value="3"/>
-            <characteristic name="W" characteristicTypeId="f330-5e6e-4110-0978" value="5"/>
-            <characteristic name="A" characteristicTypeId="13fc-b29b-31f2-ab9f" value="4"/>
-            <characteristic name="Ld" characteristicTypeId="00ca-f8b8-876d-b705" value="9"/>
-            <characteristic name="Save" characteristicTypeId="c0df-df94-abd7-e8d3" value="6+/4++"/>
-          </characteristics>
-        </profile>
-        <profile id="77f7-3e10-b2e5-656c" name="Psyker" hidden="false" profileTypeId="bc97-dea9-9e88-bb7d" profileTypeName="Psyker">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <characteristics>
-            <characteristic name="Cast" characteristicTypeId="5afb-9914-904b-d3b3" value="2"/>
-            <characteristic name="Deny" characteristicTypeId="b5ac-9c20-5d5a-6f9b" value="1"/>
-            <characteristic name="Powers Known" characteristicTypeId="69d7-b45e-00a2-7e46" value="2 - Revenant"/>
-            <characteristic name="Other" characteristicTypeId="c2e2-f115-0003-5d7b" value="Yvraine can attempt to manifest 2 psychic powers in each friendly Psychic phase, and attempt to deny 1 power in each enemy Psychic phase.  She knows the Smite power and 2 psychic powers from the Revenant discipline."/>
-          </characteristics>
-        </profile>
-        <profile id="5ac6-92e1-5b08-fef5" name="Runesuit" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" profileTypeName="Abilities">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <characteristics>
-            <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Yvraine has a 4+ invul save."/>
-          </characteristics>
-        </profile>
-        <profile id="78ad-6212-01e1-10db" name="Grinx Familiar" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" profileTypeName="Abilities">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <characteristics>
-            <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="You can add 1 to all of Yvraine&apos;s Psychic tests and Deny the Witch tests."/>
-          </characteristics>
-        </profile>
-        <profile id="4803-a000-c571-4a8d" name="Herald of Ynnead" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" profileTypeName="Abilities">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <characteristics>
-            <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Each time another AELDARI model is slain within 7&quot; of Yvraine, roll a D6.  On a 4+ Yvraine immediately regains a lost wound.  If the model was a Psyker, you can immediately generate another Psychic power for Yvraine from the Revenant disipline."/>
-          </characteristics>
-        </profile>
-      </profiles>
-      <rules/>
-      <infoLinks>
-        <infoLink id="419d-a71f-f4c0-51a8" name="New InfoLink" hidden="false" targetId="3678-7a8e-d610-0393" type="rule">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-        </infoLink>
-        <infoLink id="1f94-44d1-6182-7854" name="Strength from Death" hidden="false" targetId="95ba-ea44-505c-7eb7" type="rule">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-        </infoLink>
-      </infoLinks>
-      <modifiers/>
+    <selectionEntry id="1409-e740-c7c9-3758" name="Yvraine" publicationId="2f0e-dd91-pubN65537" page="78" hidden="false" collective="false" import="true" type="unit">
       <constraints>
         <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e93d-e013-8db7-fa6d" type="max"/>
       </constraints>
+      <profiles>
+        <profile id="2d06-9beb-d5d5-8636" name="Yvraine" hidden="false" typeId="800f-21d0-4387-c943" typeName="Unit">
+          <characteristics>
+            <characteristic name="M" typeId="0bdf-a96e-9e38-7779">8&quot;</characteristic>
+            <characteristic name="WS" typeId="e7f0-1278-0250-df0c">2+</characteristic>
+            <characteristic name="BS" typeId="381b-eb28-74c3-df5f">2+</characteristic>
+            <characteristic name="S" typeId="2218-aa3c-265f-2939">3</characteristic>
+            <characteristic name="T" typeId="9c9f-9774-a358-3a39">3</characteristic>
+            <characteristic name="W" typeId="f330-5e6e-4110-0978">5</characteristic>
+            <characteristic name="A" typeId="13fc-b29b-31f2-ab9f">4</characteristic>
+            <characteristic name="Ld" typeId="00ca-f8b8-876d-b705">9</characteristic>
+            <characteristic name="Save" typeId="c0df-df94-abd7-e8d3">6+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="77f7-3e10-b2e5-656c" name="Psyker" hidden="false" typeId="bc97-dea9-9e88-bb7d" typeName="Psyker">
+          <characteristics>
+            <characteristic name="Cast" typeId="5afb-9914-904b-d3b3">2</characteristic>
+            <characteristic name="Deny" typeId="b5ac-9c20-5d5a-6f9b">1</characteristic>
+            <characteristic name="Powers Known" typeId="69d7-b45e-00a2-7e46">2 - Revenant</characteristic>
+            <characteristic name="Other" typeId="c2e2-f115-0003-5d7b">Yvraine can attempt to manifest 2 psychic powers in each friendly Psychic phase, and attempt to deny 1 power in each enemy Psychic phase.  She knows the Smite power and 2 psychic powers from the Revenant discipline.</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="5ac6-92e1-5b08-fef5" name="Runesuit" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+          <characteristics>
+            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Yvraine has a 4+ invul save.</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="78ad-6212-01e1-10db" name="Grinx Familiar" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+          <characteristics>
+            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">You can add 1 to all of Yvraine&apos;s Psychic tests and Deny the Witch tests.</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="4803-a000-c571-4a8d" name="Herald of Ynnead" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+          <characteristics>
+            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Each time another AELDARI model is slain within 6&quot; of Yvraine, roll a D6.  On a 4+ Yvraine immediately regains one lost wound.  If the model was a Psyker, you can immediately generate another Psychic power for Yvraine from the Revenant disipline.</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="7a99-3ac7-8771-7cdf" name="Revered Figurehead" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+          <characteristics>
+            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Units with the ability can embark onto any AELDARI TRANSPORT, even though the transport in question might normally only permit models with other Faction keywords to do so.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="1f94-44d1-6182-7854" name="Strength from Death" hidden="false" targetId="95ba-ea44-505c-7eb7" type="rule"/>
+        <infoLink id="7b93-1518-9dcf-95be" name="Smite" hidden="false" targetId="5821-6c45-8572-7e0e" type="profile"/>
+        <infoLink id="4ace-b3c2-dc95-92d2" name="Favoured of Ynnead" hidden="false" targetId="dd92-bf1c-37ba-8951" type="profile">
+          <modifiers>
+            <modifier type="set" field="hidden" value="true">
+              <conditions>
+                <condition field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="75e4-e07c-3a6d-46c5" type="equalTo"/>
+              </conditions>
+            </modifier>
+          </modifiers>
+        </infoLink>
+      </infoLinks>
       <categoryLinks>
-        <categoryLink id="c9d5-81eb-d052-bb5b" name="New CategoryLink" hidden="false" targetId="ef18-746a-369f-43a4" primary="false">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <constraints/>
-        </categoryLink>
-        <categoryLink id="f7aa-a5a4-05ff-437a" name="New CategoryLink" hidden="false" targetId="0532-dbd6-bf12-340b" primary="false">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <constraints/>
-        </categoryLink>
-        <categoryLink id="902f-2aab-be6a-9ae5" name="New CategoryLink" hidden="false" targetId="ebb3-4f37-6e57-7a8e" primary="false">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <constraints/>
-        </categoryLink>
-        <categoryLink id="0ba5-3aee-c576-29a5" name="New CategoryLink" hidden="false" targetId="848a6ff2-0def-4c72-8433-ff7da70e6bc7" primary="true">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <constraints/>
-        </categoryLink>
-        <categoryLink id="e3e6-25ca-d31a-e0e8" name="New CategoryLink" hidden="false" targetId="3d52-fccf-10c0-3fae" primary="false">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <constraints/>
-        </categoryLink>
-        <categoryLink id="08f0-4237-8806-17d4" name="New CategoryLink" hidden="false" targetId="e691-aad7-d21c-1023" primary="false">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <constraints/>
-        </categoryLink>
-        <categoryLink id="476c-a3d5-2a3c-38fd" name="New CategoryLink" hidden="false" targetId="c8df-4b67-2b52-4472" primary="false">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <constraints/>
-        </categoryLink>
+        <categoryLink id="c9d5-81eb-d052-bb5b" name="New CategoryLink" hidden="false" targetId="ef18-746a-369f-43a4" primary="false"/>
+        <categoryLink id="f7aa-a5a4-05ff-437a" name="New CategoryLink" hidden="false" targetId="0532-dbd6-bf12-340b" primary="false"/>
+        <categoryLink id="902f-2aab-be6a-9ae5" name="New CategoryLink" hidden="false" targetId="ebb3-4f37-6e57-7a8e" primary="false"/>
+        <categoryLink id="0ba5-3aee-c576-29a5" name="New CategoryLink" hidden="false" targetId="848a6ff2-0def-4c72-8433-ff7da70e6bc7" primary="true"/>
+        <categoryLink id="e3e6-25ca-d31a-e0e8" name="New CategoryLink" hidden="false" targetId="3d52-fccf-10c0-3fae" primary="false"/>
+        <categoryLink id="08f0-4237-8806-17d4" name="New CategoryLink" hidden="false" targetId="e691-aad7-d21c-1023" primary="false"/>
+        <categoryLink id="476c-a3d5-2a3c-38fd" name="New CategoryLink" hidden="false" targetId="c8df-4b67-2b52-4472" primary="false"/>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="d07c-f169-0fb8-30ff" name="Kha-vir, the Sword of Sorrows." hidden="false" collective="false" type="upgrade">
-          <profiles>
-            <profile id="7410-0e3d-831d-c2b5" name="Kha-vir, the Sword of Sorrows." hidden="false" profileTypeId="d5f97c0b-9fc9-478d-aa34-a7c414d3ea48" profileTypeName="Weapon">
-              <profiles/>
-              <rules/>
-              <infoLinks/>
-              <modifiers/>
-              <characteristics>
-                <characteristic name="Range" characteristicTypeId="6fa97fa8-ea74-4a27-a0fb-bc4e5f367464" value="Melee"/>
-                <characteristic name="Type" characteristicTypeId="077c342f-d7b9-45c6-b8af-88e97cafd3a2" value="Melee"/>
-                <characteristic name="S" characteristicTypeId="59b1-319e-ec13-d466" value="+1"/>
-                <characteristic name="AP" characteristicTypeId="75aa-a838-b675-6484" value="-2"/>
-                <characteristic name="D" characteristicTypeId="ae8a-3137-d65b-4ca7" value="D3"/>
-                <characteristic name="Abilities" characteristicTypeId="837d-5e63-aeb7-1410" value="-"/>
-              </characteristics>
-            </profile>
-          </profiles>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
+        <selectionEntry id="d07c-f169-0fb8-30ff" name="Kha-vir, the Sword of Sorrows." hidden="false" collective="false" import="true" type="upgrade">
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="60e6-c2e3-1d68-a97e" type="min"/>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="405c-4e0e-d1b7-8765" type="max"/>
           </constraints>
-          <categoryLinks/>
-          <selectionEntries/>
-          <selectionEntryGroups/>
-          <entryLinks/>
-          <costs>
-            <cost name=" PL" costTypeId="e356-c769-5920-6e14" value="0.0"/>
-            <cost name="pts" costTypeId="points" value="0.0"/>
-          </costs>
-        </selectionEntry>
-      </selectionEntries>
-      <selectionEntryGroups/>
-      <entryLinks>
-        <entryLink id="a88a-c96a-12bf-346f" name="Revenant Discipline" hidden="false" targetId="7f93-a621-fdeb-0426" type="selectionEntryGroup">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <constraints>
-            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="600a-1ef8-edcb-a47a" type="max"/>
-          </constraints>
-          <categoryLinks/>
-        </entryLink>
-        <entryLink id="bfb9-bdf5-9c76-10c0" name="Ynnari Warlord" hidden="false" targetId="75e4-e07c-3a6d-46c5" type="selectionEntry">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <constraints>
-            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c6cf-f760-f20a-05d3" type="max"/>
-          </constraints>
-          <categoryLinks/>
-        </entryLink>
-        <entryLink id="db47-d38d-1108-e013" name="Warlord Trait" hidden="false" targetId="bd5b-50f5-f7d9-0af1" type="selectionEntryGroup">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <constraints/>
-          <categoryLinks/>
-        </entryLink>
-      </entryLinks>
-      <costs>
-        <cost name=" PL" costTypeId="e356-c769-5920-6e14" value="7.0"/>
-        <cost name="pts" costTypeId="points" value="132.0"/>
-      </costs>
-    </selectionEntry>
-    <selectionEntry id="c0ea-f722-6a2e-6d65" name="The Yncarne" hidden="false" collective="false" type="unit">
-      <profiles>
-        <profile id="bd38-e6ba-8ed2-a42f" name="The Yncarne" hidden="false" profileTypeId="800f-21d0-4387-c943" profileTypeName="Unit">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <characteristics>
-            <characteristic name="M" characteristicTypeId="0bdf-a96e-9e38-7779" value="8&quot;"/>
-            <characteristic name="WS" characteristicTypeId="e7f0-1278-0250-df0c" value="2+"/>
-            <characteristic name="BS" characteristicTypeId="381b-eb28-74c3-df5f" value="2+"/>
-            <characteristic name="S" characteristicTypeId="2218-aa3c-265f-2939" value="6"/>
-            <characteristic name="T" characteristicTypeId="9c9f-9774-a358-3a39" value="6"/>
-            <characteristic name="W" characteristicTypeId="f330-5e6e-4110-0978" value="9"/>
-            <characteristic name="A" characteristicTypeId="13fc-b29b-31f2-ab9f" value="6"/>
-            <characteristic name="Ld" characteristicTypeId="00ca-f8b8-876d-b705" value="9"/>
-            <characteristic name="Save" characteristicTypeId="c0df-df94-abd7-e8d3" value="3+/4++"/>
-          </characteristics>
-        </profile>
-        <profile id="1a5a-d91a-c4b4-9f40" name="Psyker" hidden="false" profileTypeId="bc97-dea9-9e88-bb7d" profileTypeName="Psyker">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <characteristics>
-            <characteristic name="Cast" characteristicTypeId="5afb-9914-904b-d3b3" value="2"/>
-            <characteristic name="Deny" characteristicTypeId="b5ac-9c20-5d5a-6f9b" value="1"/>
-            <characteristic name="Powers Known" characteristicTypeId="69d7-b45e-00a2-7e46" value="2 - Revenant"/>
-            <characteristic name="Other" characteristicTypeId="c2e2-f115-0003-5d7b" value="The Yncarne can attempt to manifest 2 psychic powers in each friendly Psychic phase, and attempt to deny 1 power in each enemy Psychic phase.  It  knows the Smite power and 2 psychic powers from the Revenant discipline."/>
-          </characteristics>
-        </profile>
-        <profile id="b1ed-4286-e812-4212" name="Ynnead Stirs" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" profileTypeName="Abilities">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <characteristics>
-            <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Friendly YNNARI units within 6&quot; of the Yncarne automatically pass Morale tests.  In addition whenever a friendly YNNARI unit within 6&quot; of the Yncarne suffers an unsaved wound or mortal wound, roll a D6.  On a 6 that wound is ignored."/>
-          </characteristics>
-        </profile>
-        <profile id="8c88-6de3-878f-7294" name="Daemonic Avatar" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" profileTypeName="Abilities">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <characteristics>
-            <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="The Yncarne has a 4+ invul save."/>
-          </characteristics>
-        </profile>
-        <profile id="fe02-a030-b4fa-59e8" name="Inevitable Death" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" profileTypeName="Abilities">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <characteristics>
-            <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="When you set up the Yncarne, it must be set up in waiting rather than on the battlefield.  when a unit (friend or foe) is completely destroyed, you may immediately set up the Yncarne as close as possible to the position of that unit, more than 1&quot; from all enemy models.  Each time a unit (friend or foe) is completely destroyed, you may immediately remove the Yncarne from the battlefield and set it up again as close as possible to the position of that unit, more than 1&quot; from all enemy models.  The Yncarne may not charge in the turn it is set up in this manner."/>
-          </characteristics>
-        </profile>
-        <profile id="5893-a8dc-205e-e9f9" name="Avatar of Ynnead" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" profileTypeName="Abilities">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <characteristics>
-            <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Each time another AELDARI model is slain within 7&quot; of the Yncarne, roll a D6, on a 4+ the Yncarne regains a wound lost earlier in the battle."/>
-          </characteristics>
-        </profile>
-      </profiles>
-      <rules/>
-      <infoLinks>
-        <infoLink id="a95a-1d9d-d27d-fabb" name="New InfoLink" hidden="false" targetId="3678-7a8e-d610-0393" type="rule">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-        </infoLink>
-        <infoLink id="c79a-8f21-2f79-f649" name="New InfoLink" hidden="false" targetId="95ba-ea44-505c-7eb7" type="rule">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-        </infoLink>
-      </infoLinks>
-      <modifiers/>
-      <constraints>
-        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7662-9ddb-0b04-fe01" type="max"/>
-      </constraints>
-      <categoryLinks>
-        <categoryLink id="65df-9e97-6b1a-42df" name="New CategoryLink" hidden="false" targetId="ef18-746a-369f-43a4" primary="false">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <constraints/>
-        </categoryLink>
-        <categoryLink id="3549-27bb-8ba5-63e9" name="New CategoryLink" hidden="false" targetId="0532-dbd6-bf12-340b" primary="false">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <constraints/>
-        </categoryLink>
-        <categoryLink id="c6a9-48b1-df5b-ce94" name="New CategoryLink" hidden="false" targetId="ebb3-4f37-6e57-7a8e" primary="false">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <constraints/>
-        </categoryLink>
-        <categoryLink id="10f8-885b-62c5-0ce6" name="New CategoryLink" hidden="false" targetId="848a6ff2-0def-4c72-8433-ff7da70e6bc7" primary="true">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <constraints/>
-        </categoryLink>
-        <categoryLink id="571b-f7ab-36cb-a115" name="New CategoryLink" hidden="false" targetId="e691-aad7-d21c-1023" primary="false">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <constraints/>
-        </categoryLink>
-        <categoryLink id="e5c8-a8a3-a510-0a35" name="New CategoryLink" hidden="false" targetId="3b77-decb-d468-6bcc" primary="false">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <constraints/>
-        </categoryLink>
-        <categoryLink id="dd3c-bcf8-0c1e-4f2d" name="New CategoryLink" hidden="false" targetId="94b1-311f-cf71-99dd" primary="false">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <constraints/>
-        </categoryLink>
-        <categoryLink id="173d-6603-f81f-8dda" name="New CategoryLink" hidden="false" targetId="3117-16d8-fcef-4f56" primary="false">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <constraints/>
-        </categoryLink>
-        <categoryLink id="9f75-af49-bb7d-4996" name="New CategoryLink" hidden="false" targetId="956e-26fb-23a4-520d" primary="false">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <constraints/>
-        </categoryLink>
-      </categoryLinks>
-      <selectionEntries>
-        <selectionEntry id="77df-66dd-e113-4ab5" name="Vilith-zhar, the Sword of Souls" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="c783-b32c-9b99-47ca" name="Vilith-zhar, the Sword of Souls" hidden="false" profileTypeId="d5f97c0b-9fc9-478d-aa34-a7c414d3ea48" profileTypeName="Weapon">
-              <profiles/>
-              <rules/>
-              <infoLinks/>
-              <modifiers/>
+            <profile id="7410-0e3d-831d-c2b5" name="Kha-vir, the Sword of Sorrows." hidden="false" typeId="d5f97c0b-9fc9-478d-aa34-a7c414d3ea48" typeName="Weapon">
               <characteristics>
-                <characteristic name="Range" characteristicTypeId="6fa97fa8-ea74-4a27-a0fb-bc4e5f367464" value="Melee"/>
-                <characteristic name="Type" characteristicTypeId="077c342f-d7b9-45c6-b8af-88e97cafd3a2" value="Melee"/>
-                <characteristic name="S" characteristicTypeId="59b1-319e-ec13-d466" value="User"/>
-                <characteristic name="AP" characteristicTypeId="75aa-a838-b675-6484" value="-4"/>
-                <characteristic name="D" characteristicTypeId="ae8a-3137-d65b-4ca7" value="D6"/>
-                <characteristic name="Abilities" characteristicTypeId="837d-5e63-aeb7-1410" value="You can re-roll failed wound rolls for this weapon."/>
+                <characteristic name="Range" typeId="6fa97fa8-ea74-4a27-a0fb-bc4e5f367464">Melee</characteristic>
+                <characteristic name="Type" typeId="077c342f-d7b9-45c6-b8af-88e97cafd3a2">Melee</characteristic>
+                <characteristic name="S" typeId="59b1-319e-ec13-d466">+1</characteristic>
+                <characteristic name="AP" typeId="75aa-a838-b675-6484">-2</characteristic>
+                <characteristic name="D" typeId="ae8a-3137-d65b-4ca7">D3</characteristic>
+                <characteristic name="Abilities" typeId="837d-5e63-aeb7-1410">-</characteristic>
               </characteristics>
             </profile>
           </profiles>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
+          <costs>
+            <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+            <cost name="pts" typeId="points" value="0.0"/>
+            <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <entryLinks>
+        <entryLink id="a88a-c96a-12bf-346f" name="Revenant Discipline" hidden="false" collective="false" import="true" targetId="7f93-a621-fdeb-0426" type="selectionEntryGroup">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="600a-1ef8-edcb-a47a" type="max"/>
+          </constraints>
+        </entryLink>
+        <entryLink id="e964-74cb-3bc5-a850" name="Ynnari Warlord" hidden="false" collective="false" import="true" targetId="75e4-e07c-3a6d-46c5" type="selectionEntry">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0365-6f3a-f47c-4a8b" type="max"/>
+          </constraints>
+        </entryLink>
+        <entryLink id="3180-c2f3-1d21-1418" name="Warden of Souls" hidden="true" collective="false" import="true" targetId="b252-9455-6755-4fbd" type="selectionEntry">
+          <modifiers>
+            <modifier type="set" field="hidden" value="false">
+              <conditions>
+                <condition field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="75e4-e07c-3a6d-46c5" type="equalTo"/>
+              </conditions>
+            </modifier>
+          </modifiers>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="6.0"/>
+        <cost name="pts" typeId="points" value="115.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c0ea-f722-6a2e-6d65" name="The Yncarne" publicationId="2f0e-dd91-pubN65537" page="79" hidden="false" collective="false" import="true" type="unit">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7662-9ddb-0b04-fe01" type="max"/>
+      </constraints>
+      <profiles>
+        <profile id="bd38-e6ba-8ed2-a42f" name="The Yncarne" hidden="false" typeId="800f-21d0-4387-c943" typeName="Unit">
+          <characteristics>
+            <characteristic name="M" typeId="0bdf-a96e-9e38-7779">8&quot;</characteristic>
+            <characteristic name="WS" typeId="e7f0-1278-0250-df0c">2+</characteristic>
+            <characteristic name="BS" typeId="381b-eb28-74c3-df5f">2+</characteristic>
+            <characteristic name="S" typeId="2218-aa3c-265f-2939">6</characteristic>
+            <characteristic name="T" typeId="9c9f-9774-a358-3a39">6</characteristic>
+            <characteristic name="W" typeId="f330-5e6e-4110-0978">9</characteristic>
+            <characteristic name="A" typeId="13fc-b29b-31f2-ab9f">6</characteristic>
+            <characteristic name="Ld" typeId="00ca-f8b8-876d-b705">9</characteristic>
+            <characteristic name="Save" typeId="c0df-df94-abd7-e8d3">3+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="1a5a-d91a-c4b4-9f40" name="Psyker" hidden="false" typeId="bc97-dea9-9e88-bb7d" typeName="Psyker">
+          <characteristics>
+            <characteristic name="Cast" typeId="5afb-9914-904b-d3b3">2</characteristic>
+            <characteristic name="Deny" typeId="b5ac-9c20-5d5a-6f9b">1</characteristic>
+            <characteristic name="Powers Known" typeId="69d7-b45e-00a2-7e46">2 - Revenant</characteristic>
+            <characteristic name="Other" typeId="c2e2-f115-0003-5d7b">The Yncarne can attempt to manifest 2 psychic powers in each friendly Psychic phase, and attempt to deny 1 power in each enemy Psychic phase.  It  knows the Smite power and 2 psychic powers from the Revenant discipline.</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="b1ed-4286-e812-4212" name="Ynnead Stirs" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+          <characteristics>
+            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Friendly YNNARI units within 6&quot; of the Yncarne automatically pass Morale tests.  In addition whenever a friendly YNNARI unit within 6&quot; of the Yncarne loses a wound, roll a D6.  On a 6 that wound is not lost</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="8c88-6de3-878f-7294" name="Daemonic Avatar" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+          <characteristics>
+            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">The Yncarne has a 4+ invul save.</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="fe02-a030-b4fa-59e8" name="Inevitable Death" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+          <characteristics>
+            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">When you set up the Yncarne, it can be set up in waiting rather than on the battlefield.  if it is, each time a unit (friend or foe) is completely destroyed, you may immediately set up the Yncarne as close as possible to the position of that unit, more than 1&quot; from all enemy models.  The Yncarne may not charge in the turn it is set up in this manner.</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="5893-a8dc-205e-e9f9" name="Avatar of Ynnead" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+          <characteristics>
+            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Each time another AELDARI model is slain within 6&quot; of the Yncarne, roll a D6, on a 4+ the Yncarne regains one lost wound</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="93db-7b29-ee6d-d99f" name="Summoned by Death" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+          <characteristics>
+            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Each time a unit (friend or foe) is completely destroyed, you may immediately remove the Yncarne from the battlefield and set it up again as close as possible to the position of that unit, more than 1&quot; from all enemy models. The Yncarne may not charge in the turn it is set up in this manner.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="c79a-8f21-2f79-f649" name="Strength from Death" hidden="false" targetId="95ba-ea44-505c-7eb7" type="rule"/>
+        <infoLink id="6c93-b66a-77a9-ce63" name="Smite" hidden="false" targetId="5821-6c45-8572-7e0e" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="65df-9e97-6b1a-42df" name="New CategoryLink" hidden="false" targetId="ef18-746a-369f-43a4" primary="false"/>
+        <categoryLink id="3549-27bb-8ba5-63e9" name="New CategoryLink" hidden="false" targetId="0532-dbd6-bf12-340b" primary="false"/>
+        <categoryLink id="c6a9-48b1-df5b-ce94" name="New CategoryLink" hidden="false" targetId="ebb3-4f37-6e57-7a8e" primary="false"/>
+        <categoryLink id="10f8-885b-62c5-0ce6" name="New CategoryLink" hidden="false" targetId="848a6ff2-0def-4c72-8433-ff7da70e6bc7" primary="true"/>
+        <categoryLink id="571b-f7ab-36cb-a115" name="New CategoryLink" hidden="false" targetId="e691-aad7-d21c-1023" primary="false"/>
+        <categoryLink id="e5c8-a8a3-a510-0a35" name="New CategoryLink" hidden="false" targetId="3b77-decb-d468-6bcc" primary="false"/>
+        <categoryLink id="dd3c-bcf8-0c1e-4f2d" name="New CategoryLink" hidden="false" targetId="94b1-311f-cf71-99dd" primary="false"/>
+        <categoryLink id="173d-6603-f81f-8dda" name="New CategoryLink" hidden="false" targetId="3117-16d8-fcef-4f56" primary="false"/>
+        <categoryLink id="9f75-af49-bb7d-4996" name="New CategoryLink" hidden="false" targetId="956e-26fb-23a4-520d" primary="false"/>
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="77df-66dd-e113-4ab5" name="Vilith-zhar, the Sword of Souls" hidden="false" collective="false" import="true" type="upgrade">
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a016-24d6-15c0-6076" type="min"/>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="26af-53f9-3774-5f26" type="max"/>
           </constraints>
-          <categoryLinks/>
-          <selectionEntries/>
-          <selectionEntryGroups/>
-          <entryLinks/>
-          <costs>
-            <cost name=" PL" costTypeId="e356-c769-5920-6e14" value="0.0"/>
-            <cost name="pts" costTypeId="points" value="0.0"/>
-          </costs>
-        </selectionEntry>
-      </selectionEntries>
-      <selectionEntryGroups/>
-      <entryLinks>
-        <entryLink id="6416-4c7a-7a89-bae6" name="Revenant Discipline" hidden="false" targetId="7f93-a621-fdeb-0426" type="selectionEntryGroup">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <constraints>
-            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9bff-6db2-e2ff-cf76" type="max"/>
-          </constraints>
-          <categoryLinks/>
-        </entryLink>
-        <entryLink id="c99e-be66-0fed-422d" name="Ynnari Warlord" hidden="false" targetId="75e4-e07c-3a6d-46c5" type="selectionEntry">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <constraints>
-            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1c60-6d36-cdc3-955b" type="max"/>
-          </constraints>
-          <categoryLinks/>
-        </entryLink>
-        <entryLink id="bd5b-dd52-40b2-63a5" name="Warlord Trait" hidden="false" targetId="bd5b-50f5-f7d9-0af1" type="selectionEntryGroup">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <constraints/>
-          <categoryLinks/>
-        </entryLink>
-      </entryLinks>
-      <costs>
-        <cost name=" PL" costTypeId="e356-c769-5920-6e14" value="17.0"/>
-        <cost name="pts" costTypeId="points" value="337.0"/>
-      </costs>
-    </selectionEntry>
-    <selectionEntry id="6c95-9f0a-0951-30ab" name="The Visarch" hidden="false" collective="false" type="unit">
-      <profiles>
-        <profile id="4445-476f-04fc-b2fd" name="The Visarch" hidden="false" profileTypeId="800f-21d0-4387-c943" profileTypeName="Unit">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <characteristics>
-            <characteristic name="M" characteristicTypeId="0bdf-a96e-9e38-7779" value="8&quot;"/>
-            <characteristic name="WS" characteristicTypeId="e7f0-1278-0250-df0c" value="2+"/>
-            <characteristic name="BS" characteristicTypeId="381b-eb28-74c3-df5f" value="2+"/>
-            <characteristic name="S" characteristicTypeId="2218-aa3c-265f-2939" value="3"/>
-            <characteristic name="T" characteristicTypeId="9c9f-9774-a358-3a39" value="3"/>
-            <characteristic name="W" characteristicTypeId="f330-5e6e-4110-0978" value="5"/>
-            <characteristic name="A" characteristicTypeId="13fc-b29b-31f2-ab9f" value="5"/>
-            <characteristic name="Ld" characteristicTypeId="00ca-f8b8-876d-b705" value="9"/>
-            <characteristic name="Save" characteristicTypeId="c0df-df94-abd7-e8d3" value="3+"/>
-          </characteristics>
-        </profile>
-        <profile id="a7b3-cd2a-56f9-35ad" name="Champion of Ynnead" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" profileTypeName="Abilities">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <characteristics>
-            <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="Each time another AELDARI model is slain within 7&quot; of the Visarch, roll a D6, on a 4+, the Visarch immediately regains a lost wound.  if that model was a CHARACTER, add 1 to the Visarch&apos;s Attacks characteristic for the rest of the battle (to a max of 7)."/>
-          </characteristics>
-        </profile>
-        <profile id="19da-2fb1-1fd5-99bf" name="Warden of Ynnead" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" profileTypeName="Abilities">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <characteristics>
-            <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="If Yvraine suffers a wound or mortal wound while the Visarch is within 3&quot;, you can choose for the Visarch to shield Yvraine, if you do, roll a D6.  On a 2+ Yvraine does not suffer the wound, but the visarch suffers a mortal wound."/>
-          </characteristics>
-        </profile>
-      </profiles>
-      <rules/>
-      <infoLinks>
-        <infoLink id="85b2-8a24-a368-2d8b" name="New InfoLink" hidden="false" targetId="3678-7a8e-d610-0393" type="rule">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-        </infoLink>
-        <infoLink id="74cf-c1c6-a282-018d" name="New InfoLink" hidden="false" targetId="95ba-ea44-505c-7eb7" type="rule">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-        </infoLink>
-      </infoLinks>
-      <modifiers/>
-      <constraints>
-        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="df9b-4713-c4b2-7daa" type="max"/>
-      </constraints>
-      <categoryLinks>
-        <categoryLink id="1c0b-8fa3-2ef0-2099" name="New CategoryLink" hidden="false" targetId="ef18-746a-369f-43a4" primary="false">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <constraints/>
-        </categoryLink>
-        <categoryLink id="42b7-0e26-0e99-6402" name="New CategoryLink" hidden="false" targetId="0532-dbd6-bf12-340b" primary="false">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <constraints/>
-        </categoryLink>
-        <categoryLink id="749a-35fe-7a77-90d4" name="New CategoryLink" hidden="false" targetId="ebb3-4f37-6e57-7a8e" primary="false">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <constraints/>
-        </categoryLink>
-        <categoryLink id="31bb-3993-d5ce-c028" name="New CategoryLink" hidden="false" targetId="848a6ff2-0def-4c72-8433-ff7da70e6bc7" primary="true">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <constraints/>
-        </categoryLink>
-        <categoryLink id="61c0-53d1-1108-ec42" name="New CategoryLink" hidden="false" targetId="3d52-fccf-10c0-3fae" primary="false">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <constraints/>
-        </categoryLink>
-        <categoryLink id="b45e-f802-c5d6-3923" name="New CategoryLink" hidden="false" targetId="48e7-cfd4-1ea3-5847" primary="false">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <constraints/>
-        </categoryLink>
-      </categoryLinks>
-      <selectionEntries>
-        <selectionEntry id="9396-32a4-db13-c3fe" name="Asu-var, the Sword of Silent Screams" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="135d-2ecb-7a9b-e18c" name="Asu-var, the Sword of Silent Screams" hidden="false" profileTypeId="d5f97c0b-9fc9-478d-aa34-a7c414d3ea48" profileTypeName="Weapon">
-              <profiles/>
-              <rules/>
-              <infoLinks/>
-              <modifiers/>
+            <profile id="c783-b32c-9b99-47ca" name="Vilith-zhar, the Sword of Souls" hidden="false" typeId="d5f97c0b-9fc9-478d-aa34-a7c414d3ea48" typeName="Weapon">
               <characteristics>
-                <characteristic name="Range" characteristicTypeId="6fa97fa8-ea74-4a27-a0fb-bc4e5f367464" value="Melee"/>
-                <characteristic name="Type" characteristicTypeId="077c342f-d7b9-45c6-b8af-88e97cafd3a2" value="Melee"/>
-                <characteristic name="S" characteristicTypeId="59b1-319e-ec13-d466" value="+2"/>
-                <characteristic name="AP" characteristicTypeId="75aa-a838-b675-6484" value="-3"/>
-                <characteristic name="D" characteristicTypeId="ae8a-3137-d65b-4ca7" value="D3"/>
-                <characteristic name="Abilities" characteristicTypeId="837d-5e63-aeb7-1410" value="Enemy units that suffer any unsaved wounds from this weapon subtract 1 from their Leadership until the end of the turn."/>
+                <characteristic name="Range" typeId="6fa97fa8-ea74-4a27-a0fb-bc4e5f367464">Melee</characteristic>
+                <characteristic name="Type" typeId="077c342f-d7b9-45c6-b8af-88e97cafd3a2">Melee</characteristic>
+                <characteristic name="S" typeId="59b1-319e-ec13-d466">User</characteristic>
+                <characteristic name="AP" typeId="75aa-a838-b675-6484">-4</characteristic>
+                <characteristic name="D" typeId="ae8a-3137-d65b-4ca7">D6</characteristic>
+                <characteristic name="Abilities" typeId="837d-5e63-aeb7-1410">You can re-roll failed wound rolls for this weapon.</characteristic>
               </characteristics>
             </profile>
           </profiles>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
+          <costs>
+            <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+            <cost name="pts" typeId="points" value="0.0"/>
+            <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <entryLinks>
+        <entryLink id="6416-4c7a-7a89-bae6" name="Revenant Discipline" hidden="false" collective="false" import="true" targetId="7f93-a621-fdeb-0426" type="selectionEntryGroup">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9bff-6db2-e2ff-cf76" type="max"/>
+          </constraints>
+        </entryLink>
+        <entryLink id="5573-2e03-dd89-0c87" name="Ynnari Warlord" hidden="false" collective="false" import="true" targetId="75e4-e07c-3a6d-46c5" type="selectionEntry">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a242-4dc5-3e06-3742" type="max"/>
+          </constraints>
+        </entryLink>
+        <entryLink id="21dc-c2c6-b0c7-6aa5" name="Warden of Souls" hidden="true" collective="false" import="true" targetId="b252-9455-6755-4fbd" type="selectionEntry">
+          <modifiers>
+            <modifier type="set" field="hidden" value="false">
+              <conditions>
+                <condition field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="75e4-e07c-3a6d-46c5" type="equalTo"/>
+              </conditions>
+            </modifier>
+          </modifiers>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="14.0"/>
+        <cost name="pts" typeId="points" value="280.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="6c95-9f0a-0951-30ab" name="The Visarch" publicationId="2f0e-dd91-pubN65537" page="78" hidden="false" collective="false" import="true" type="unit">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="df9b-4713-c4b2-7daa" type="max"/>
+      </constraints>
+      <profiles>
+        <profile id="4445-476f-04fc-b2fd" name="The Visarch" hidden="false" typeId="800f-21d0-4387-c943" typeName="Unit">
+          <characteristics>
+            <characteristic name="M" typeId="0bdf-a96e-9e38-7779">8&quot;</characteristic>
+            <characteristic name="WS" typeId="e7f0-1278-0250-df0c">2+</characteristic>
+            <characteristic name="BS" typeId="381b-eb28-74c3-df5f">2+</characteristic>
+            <characteristic name="S" typeId="2218-aa3c-265f-2939">3</characteristic>
+            <characteristic name="T" typeId="9c9f-9774-a358-3a39">3</characteristic>
+            <characteristic name="W" typeId="f330-5e6e-4110-0978">5</characteristic>
+            <characteristic name="A" typeId="13fc-b29b-31f2-ab9f">5</characteristic>
+            <characteristic name="Ld" typeId="00ca-f8b8-876d-b705">9</characteristic>
+            <characteristic name="Save" typeId="c0df-df94-abd7-e8d3">3+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="a7b3-cd2a-56f9-35ad" name="Champion of Ynnead" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+          <characteristics>
+            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Each time another AELDARI model is slain within 6&quot; of the Visarch, roll a D6, on a 4+, the Visarch immediately regains a lost wound.  if that model was a CHARACTER, add 1 to the Visarch&apos;s Attacks characteristic for the rest of the battle.</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="19da-2fb1-1fd5-99bf" name="Warden of Yvraine" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+          <characteristics>
+            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Each time Yvraine loses a wound while the Visarch is within 3&quot;, you can choose for the Visarch to shield Yvraine, if you do, roll a D6.  On a 2+ Yvraine does not suffer the wound, but the visarch suffers a mortal wound.</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="c3de-4bbd-bd91-9afb" name="Revered Figurehead" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+          <characteristics>
+            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Units with the ability can embark onto any AELDARI TRANSPORT, even though the transport in question might normally only permit models with other Faction keywords to do so.</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="5965-8868-6650-4885" name="Way of the Blade" publicationId="6a4d-2a41-5e6b-c57a" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+          <characteristics>
+            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228"> Re-roll hit rolls of 1 for attacks made with melee weapons by friendly YNNARI models while thier unit is within 6&quot; of this model.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink id="74cf-c1c6-a282-018d" name="Strength from Death" hidden="false" targetId="95ba-ea44-505c-7eb7" type="rule"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="1c0b-8fa3-2ef0-2099" name="New CategoryLink" hidden="false" targetId="ef18-746a-369f-43a4" primary="false"/>
+        <categoryLink id="42b7-0e26-0e99-6402" name="New CategoryLink" hidden="false" targetId="0532-dbd6-bf12-340b" primary="false"/>
+        <categoryLink id="749a-35fe-7a77-90d4" name="New CategoryLink" hidden="false" targetId="ebb3-4f37-6e57-7a8e" primary="false"/>
+        <categoryLink id="31bb-3993-d5ce-c028" name="New CategoryLink" hidden="false" targetId="848a6ff2-0def-4c72-8433-ff7da70e6bc7" primary="true"/>
+        <categoryLink id="61c0-53d1-1108-ec42" name="New CategoryLink" hidden="false" targetId="3d52-fccf-10c0-3fae" primary="false"/>
+        <categoryLink id="b45e-f802-c5d6-3923" name="New CategoryLink" hidden="false" targetId="48e7-cfd4-1ea3-5847" primary="false"/>
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="9396-32a4-db13-c3fe" name="Asu-var, the Sword of Silent Screams" hidden="false" collective="false" import="true" type="upgrade">
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1b00-c1d4-f064-60fb" type="min"/>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="afc4-0c9c-3ee3-470e" type="max"/>
           </constraints>
-          <categoryLinks/>
-          <selectionEntries/>
-          <selectionEntryGroups/>
-          <entryLinks/>
-          <costs>
-            <cost name=" PL" costTypeId="e356-c769-5920-6e14" value="0.0"/>
-            <cost name="pts" costTypeId="points" value="0.0"/>
-          </costs>
-        </selectionEntry>
-        <selectionEntry id="15a4-e55f-941a-5fd0" name="Forceshield" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="b540-5d3e-aa2d-c6f0" name="Forceshield" hidden="false" profileTypeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" profileTypeName="Abilities">
-              <profiles/>
-              <rules/>
-              <infoLinks/>
-              <modifiers/>
+            <profile id="135d-2ecb-7a9b-e18c" name="Asu-var, the Sword of Silent Screams" hidden="false" typeId="d5f97c0b-9fc9-478d-aa34-a7c414d3ea48" typeName="Weapon">
               <characteristics>
-                <characteristic name="Description" characteristicTypeId="21befb24-fc85-4f52-a745-64b2e48f8228" value="This model has a 4+ invulnerable save."/>
+                <characteristic name="Range" typeId="6fa97fa8-ea74-4a27-a0fb-bc4e5f367464">Melee</characteristic>
+                <characteristic name="Type" typeId="077c342f-d7b9-45c6-b8af-88e97cafd3a2">Melee</characteristic>
+                <characteristic name="S" typeId="59b1-319e-ec13-d466">+2</characteristic>
+                <characteristic name="AP" typeId="75aa-a838-b675-6484">-3</characteristic>
+                <characteristic name="D" typeId="ae8a-3137-d65b-4ca7">D3</characteristic>
+                <characteristic name="Abilities" typeId="837d-5e63-aeb7-1410">Enemy units that suffer any unsaved wounds from this weapon subtract 1 from their Leadership until the end of the turn.</characteristic>
               </characteristics>
             </profile>
           </profiles>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
+          <costs>
+            <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+            <cost name="pts" typeId="points" value="0.0"/>
+            <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="15a4-e55f-941a-5fd0" name="Forceshield" hidden="false" collective="false" import="true" type="upgrade">
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d665-0275-3566-12c0" type="max"/>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3476-a854-6f04-4827" type="min"/>
           </constraints>
-          <categoryLinks/>
-          <selectionEntries/>
-          <selectionEntryGroups/>
-          <entryLinks/>
+          <profiles>
+            <profile id="b540-5d3e-aa2d-c6f0" name="Forceshield" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+              <characteristics>
+                <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">This model has a 4+ invulnerable save.</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
           <costs>
-            <cost name=" PL" costTypeId="e356-c769-5920-6e14" value="0.0"/>
-            <cost name="pts" costTypeId="points" value="0.0"/>
+            <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+            <cost name="pts" typeId="points" value="0.0"/>
+            <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
           </costs>
         </selectionEntry>
       </selectionEntries>
-      <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="7608-5d61-a24f-482a" name="Ynnari Warlord" hidden="false" targetId="75e4-e07c-3a6d-46c5" type="selectionEntry">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
+        <entryLink id="2248-3aec-27f8-6a74" name="Ynnari Warlord" hidden="false" collective="false" import="true" targetId="75e4-e07c-3a6d-46c5" type="selectionEntry">
           <constraints>
-            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7094-cf3e-f9b9-4e40" type="max"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="739a-7104-5199-9de0" type="max"/>
           </constraints>
-          <categoryLinks/>
         </entryLink>
-        <entryLink id="1514-e393-823f-4995" name="Warlord Trait" hidden="false" targetId="bd5b-50f5-f7d9-0af1" type="selectionEntryGroup">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <constraints/>
-          <categoryLinks/>
+        <entryLink id="bbce-bda1-ee40-a519" name="Master of Death" hidden="true" collective="false" import="true" targetId="6c00-96aa-9088-d9b8" type="selectionEntry">
+          <modifiers>
+            <modifier type="set" field="hidden" value="false">
+              <conditions>
+                <condition field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="75e4-e07c-3a6d-46c5" type="equalTo"/>
+              </conditions>
+            </modifier>
+          </modifiers>
         </entryLink>
       </entryLinks>
       <costs>
-        <cost name=" PL" costTypeId="e356-c769-5920-6e14" value="7.0"/>
-        <cost name="pts" costTypeId="points" value="141.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="4.0"/>
+        <cost name="pts" typeId="points" value="80.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="e382-0294-a92d-3a16" name="Favoured of Ynnead" hidden="false" collective="false" import="true" type="upgrade">
+      <constraints>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3ab2-ac79-88e3-d808" type="max"/>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="e8b9-0d14-f0e1-566d" type="max"/>
+      </constraints>
+      <infoLinks>
+        <infoLink id="ddcd-5f71-09f6-7d72" name="Favored of Ynnead" hidden="false" targetId="dd92-bf1c-37ba-8951" type="profile"/>
+      </infoLinks>
+      <costs>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+        <cost name="pts" typeId="points" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="b252-9455-6755-4fbd" name="Warden of Souls" hidden="false" collective="false" import="true" type="upgrade">
+      <modifiers>
+        <modifier type="set" field="6511-954d-89c4-9317" value="1.0">
+          <conditions>
+            <condition field="selections" scope="ancestor" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="c0ea-f722-6a2e-6d65" type="instanceOf"/>
+          </conditions>
+        </modifier>
+      </modifiers>
+      <constraints>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e85a-3018-f1e4-6dd0" type="max"/>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="e3c8-9c62-28ff-94d1" type="max"/>
+        <constraint field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6511-954d-89c4-9317" type="min"/>
+      </constraints>
+      <profiles>
+        <profile id="5a1c-0bbd-8072-9a33" name="Warden of Souls" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+          <characteristics>
+            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Whilst this Warlord is drawing strength from death, add 1 to their Attacks and Strength characteristics.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <costs>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+        <cost name="pts" typeId="points" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4a28-cb5d-ee83-f278" name="Fear of the Grave" hidden="false" collective="false" import="true" type="upgrade">
+      <constraints>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="cdd8-d39b-f458-0ab5" type="max"/>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="acd9-2cfd-bb9e-9ab5" type="max"/>
+      </constraints>
+      <profiles>
+        <profile id="09e0-0d72-8392-c761" name="Fear of the Grave" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+          <characteristics>
+            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Subtract 1 from the Leadership characteristic of models in enemy units whilst their unit is within 6&quot; of this Warlord; subtract 2 instead if any enemy units have been destroyed as a result of an attack made by this Warlord this turn.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <costs>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+        <cost name="pts" typeId="points" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ea9e-fd5a-6cea-6916" name="Lord of Rebirth" hidden="false" collective="false" import="true" type="upgrade">
+      <constraints>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e43b-27b5-e410-5ba6" type="max"/>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="b843-bf62-8380-957e" type="max"/>
+      </constraints>
+      <profiles>
+        <profile id="e0e7-cc07-3beb-aaa8" name="Lord of Rebirth" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+          <characteristics>
+            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">At the start of the battle round, this Warlord regains up to 1 lost wound. When this Warlord would lose a wound, roll one D6; on a 5+ that wound is not lost.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <costs>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+        <cost name="pts" typeId="points" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="6c00-96aa-9088-d9b8" name="Master of Death" hidden="false" collective="false" import="true" type="upgrade">
+      <constraints>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5119-aeee-2834-6dce" type="max"/>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="6e55-149e-0c91-5809" type="max"/>
+      </constraints>
+      <profiles>
+        <profile id="e5d8-0286-b85a-fe49" name="Master of Death" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+          <characteristics>
+            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">When resolving an attack made with a melee weapon by this Warlord, an unmodified hit roll of 6 scores 1 additional hit.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <costs>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+        <cost name="pts" typeId="points" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="08e2-163a-bc8b-101a" name="Walker of Many Paths" hidden="false" collective="false" import="true" type="upgrade">
+      <constraints>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9d0f-7b78-a359-0d23" type="max"/>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="4253-a490-ef40-15ff" type="max"/>
+      </constraints>
+      <profiles>
+        <profile id="1757-2b62-ca03-f476" name="Walker of Many Paths" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+          <characteristics>
+            <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Once per turn, when resolving an attack made by this Warlord, you can re-roll one hit roll or you can re-roll one wound roll. Whilst this Warlord is on the battlefield, you can roll one D6 for each Command Point you spend to use a Stratagem; on a 5+ that Command Point is refunded. You can only have 1 Command Point refunded per battle round by this Warlord Trait.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <costs>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+        <cost name="pts" typeId="points" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="746d-c99b-ba49-17bb" name="Exalted of Ynnead" publicationId="6a4d-2a41-5e6b-c57a" page="5" hidden="false" collective="false" import="true" type="upgrade">
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="b840-e4c9-08e2-f599" type="max"/>
+      </constraints>
+      <categoryLinks>
+        <categoryLink id="e764-bbc8-c7a0-834b" name="New CategoryLink" hidden="false" targetId="c845-c72c-6afe-3fc2" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="-1.0"/>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="pts" typeId="points" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a1c9-09d6-2587-9553" name="Artefacts of Death" hidden="false" collective="false" import="true" type="upgrade">
+      <categoryLinks>
+        <categoryLink id="5f3f-7c13-f6dc-f4d3" name="New CategoryLink" hidden="false" targetId="c845-c72c-6afe-3fc2" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="-1.0"/>
+        <cost name="pts" typeId="points" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="7f29-5de0-1c4c-234d" name="Corag Hai&apos;s Locket" hidden="false" collective="false" import="true" type="upgrade">
+      <constraints>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="899b-9663-dac0-8da4" type="max"/>
+      </constraints>
+      <infoLinks>
+        <infoLink id="1339-37d9-1653-4c45" name="Corag Hai&apos;s Locket" hidden="false" targetId="ecf2-1723-edc3-0ee1" type="profile"/>
+      </infoLinks>
+      <costs>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+        <cost name="pts" typeId="points" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="9ce9-34d4-da91-c9bf" name="Hungering Blade" hidden="false" collective="false" import="true" type="upgrade">
+      <constraints>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="cf07-6449-96f1-cb95" type="max"/>
+      </constraints>
+      <infoLinks>
+        <infoLink id="1f5c-abf9-c9d5-284b" name="Hungering Blade" hidden="false" targetId="2cec-eb16-6120-2e36" type="profile"/>
+      </infoLinks>
+      <costs>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+        <cost name="pts" typeId="points" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="312c-1864-11e2-8de0" name="Mirrorgaze" hidden="false" collective="false" import="true" type="upgrade">
+      <constraints>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7d2e-ca8c-1294-1477" type="max"/>
+      </constraints>
+      <infoLinks>
+        <infoLink id="d0eb-42aa-83f0-8048" name="Mirrorgaze" hidden="false" targetId="dc3a-a9a7-58d3-ecd8" type="profile"/>
+      </infoLinks>
+      <costs>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+        <cost name="pts" typeId="points" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5c45-15f8-bb62-2cbe" name="Song of Ynnead" hidden="false" collective="false" import="true" type="upgrade">
+      <constraints>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d2b2-710d-fc22-95e8" type="max"/>
+      </constraints>
+      <infoLinks>
+        <infoLink id="b9e9-886a-a1f4-c156" name="Song of Ynnead" hidden="false" targetId="ff90-6b1b-6dbb-2f56" type="profile"/>
+      </infoLinks>
+      <costs>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+        <cost name="pts" typeId="points" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="986d-71e5-facc-56fc" name="Soulsnare" hidden="false" collective="false" import="true" type="upgrade">
+      <constraints>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="bd17-171e-f981-5196" type="max"/>
+      </constraints>
+      <infoLinks>
+        <infoLink id="02b0-f196-7b0a-e57e" name="Soulsnare" hidden="false" targetId="315d-8e14-366e-d7f0" type="profile"/>
+      </infoLinks>
+      <costs>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+        <cost name="pts" typeId="points" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="e788-5910-2225-d1ce" name="The Lost Shroud" hidden="false" collective="false" import="true" type="upgrade">
+      <constraints>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1ec3-f9c9-f975-79b4" type="max"/>
+      </constraints>
+      <infoLinks>
+        <infoLink id="4657-a6f7-dc15-63b9" name="The Lost Shroud" hidden="false" targetId="9a3e-ac79-bfa6-6eb1" type="profile"/>
+      </infoLinks>
+      <costs>
+        <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+        <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+        <cost name="pts" typeId="points" value="0.0"/>
       </costs>
     </selectionEntry>
   </sharedSelectionEntries>
   <sharedSelectionEntryGroups>
-    <selectionEntryGroup id="7f93-a621-fdeb-0426" name="Revenant Discipline" hidden="false" collective="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <constraints/>
-      <categoryLinks/>
+    <selectionEntryGroup id="7f93-a621-fdeb-0426" name="Revenant Discipline" publicationId="6a4d-2a41-5e6b-c57a" hidden="false" collective="false" import="true">
       <selectionEntries>
-        <selectionEntry id="a1f7-49ec-672d-aec1" name="Gaze of Ynnead" hidden="false" collective="false" type="upgrade">
-          <profiles>
-            <profile id="8a85-7b76-b322-0bf3" name="Gaze of Ynnead" hidden="false" profileTypeId="ae70-4738-0161-bec0" profileTypeName="Psychic Power">
-              <profiles/>
-              <rules/>
-              <infoLinks/>
-              <modifiers/>
-              <characteristics>
-                <characteristic name="Warp Charge" characteristicTypeId="5ffd-b800-c317-532a" value="8"/>
-                <characteristic name="Range" characteristicTypeId="fd64-cbc4-94de-24cc" value="18&quot;"/>
-                <characteristic name="Details" characteristicTypeId="ad96-dfa4-b4ed-656d" value="Select a visible enemy unit within 18&quot; of the psyker and roll a D6.  On a 1, the unit suffers a mortal wound.  On a 2-5 that unit suffers D3 mortal wounds.  On a 6, that unit suffers D6 mortal wounds."/>
-              </characteristics>
-            </profile>
-          </profiles>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
+        <selectionEntry id="a1f7-49ec-672d-aec1" name="1. Gaze of Ynnead" hidden="false" collective="false" import="true" type="upgrade">
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="083f-4c89-9402-dbe7" type="max"/>
           </constraints>
-          <categoryLinks/>
-          <selectionEntries/>
-          <selectionEntryGroups/>
-          <entryLinks/>
-          <costs>
-            <cost name=" PL" costTypeId="e356-c769-5920-6e14" value="0.0"/>
-            <cost name="pts" costTypeId="points" value="0.0"/>
-          </costs>
-        </selectionEntry>
-        <selectionEntry id="ff62-939b-4c28-1057" name="Ancestors&apos; Grace" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="6a83-cfb0-489c-5983" name="Ancestors&apos; Grace" hidden="false" profileTypeId="ae70-4738-0161-bec0" profileTypeName="Psychic Power">
-              <profiles/>
-              <rules/>
-              <infoLinks/>
-              <modifiers/>
+            <profile id="8a85-7b76-b322-0bf3" name="1. Gaze of Ynnead" hidden="false" typeId="ae70-4738-0161-bec0" typeName="Psychic Power">
               <characteristics>
-                <characteristic name="Warp Charge" characteristicTypeId="5ffd-b800-c317-532a" value="5"/>
-                <characteristic name="Range" characteristicTypeId="fd64-cbc4-94de-24cc" value="18&quot;"/>
-                <characteristic name="Details" characteristicTypeId="ad96-dfa4-b4ed-656d" value="Select a friendly Ynnari unit within 18&quot; of the psyker.  Until the start of your next Psychic phase, you can re-roll hit rolls of 1 for that unit."/>
+                <characteristic name="Warp Charge" typeId="5ffd-b800-c317-532a">6</characteristic>
+                <characteristic name="Range" typeId="fd64-cbc4-94de-24cc">18&quot;</characteristic>
+                <characteristic name="Details" typeId="ad96-dfa4-b4ed-656d">Select a visible enemy unit within 18&quot; of the psyker and roll a D6.  On a 1, the unit suffers a mortal wound.  On a 2-5 that unit suffers D3 mortal wounds.  On a 6, that unit suffers D6 mortal wounds.</characteristic>
               </characteristics>
             </profile>
           </profiles>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
+          <costs>
+            <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+            <cost name="pts" typeId="points" value="0.0"/>
+            <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="ff62-939b-4c28-1057" name="6. Ancestors&apos; Grace" hidden="false" collective="false" import="true" type="upgrade">
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="24f4-058d-bf1d-5b27" type="max"/>
           </constraints>
-          <categoryLinks/>
-          <selectionEntries/>
-          <selectionEntryGroups/>
-          <entryLinks/>
-          <costs>
-            <cost name=" PL" costTypeId="e356-c769-5920-6e14" value="0.0"/>
-            <cost name="pts" costTypeId="points" value="0.0"/>
-          </costs>
-        </selectionEntry>
-        <selectionEntry id="d62c-820b-9b1b-6c5b" name="Word of the Phoenix" hidden="false" collective="false" type="upgrade">
           <profiles>
-            <profile id="0ef5-cbb3-24a1-a0c3" name="Word of the Phoenix" hidden="false" profileTypeId="ae70-4738-0161-bec0" profileTypeName="Psychic Power">
-              <profiles/>
-              <rules/>
-              <infoLinks/>
-              <modifiers/>
+            <profile id="6a83-cfb0-489c-5983" name="6. Ancestors&apos; Grace" hidden="false" typeId="ae70-4738-0161-bec0" typeName="Psychic Power">
               <characteristics>
-                <characteristic name="Warp Charge" characteristicTypeId="5ffd-b800-c317-532a" value="8"/>
-                <characteristic name="Range" characteristicTypeId="fd64-cbc4-94de-24cc" value="18&quot;"/>
-                <characteristic name="Details" characteristicTypeId="ad96-dfa4-b4ed-656d" value="Select one of the following friendly units within 18&quot; of the psyker that has not made a Soulburst action this turn: an YNNARI INFANTRY unit, an YNNARI BIKER unit or the Yncarne.’ That unit can immediately make a Soulburst action (see Strength from Death)"/>
+                <characteristic name="Warp Charge" typeId="5ffd-b800-c317-532a">5</characteristic>
+                <characteristic name="Range" typeId="fd64-cbc4-94de-24cc">18&quot;</characteristic>
+                <characteristic name="Details" typeId="ad96-dfa4-b4ed-656d">Select a friendly Ynnari unit within 18&quot; of the psyker.  Until the start of your next Psychic phase, you can re-roll hit rolls of 1 for that unit.</characteristic>
               </characteristics>
             </profile>
           </profiles>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
+          <costs>
+            <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+            <cost name="pts" typeId="points" value="0.0"/>
+            <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="d62c-820b-9b1b-6c5b" name="3. Word of the Phoenix" hidden="false" collective="false" import="true" type="upgrade">
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="02e7-e0ca-40e4-deaa" type="max"/>
           </constraints>
-          <categoryLinks/>
-          <selectionEntries/>
-          <selectionEntryGroups/>
-          <entryLinks/>
+          <profiles>
+            <profile id="0ef5-cbb3-24a1-a0c3" name="3. Word of the Phoenix" hidden="false" typeId="ae70-4738-0161-bec0" typeName="Psychic Power">
+              <characteristics>
+                <characteristic name="Warp Charge" typeId="5ffd-b800-c317-532a">5</characteristic>
+                <characteristic name="Range" typeId="fd64-cbc4-94de-24cc">18&quot;</characteristic>
+                <characteristic name="Details" typeId="ad96-dfa4-b4ed-656d">If manifested, Select one friendly ynnari infantry, or YNNARI BIKER unit within 18&quot; of the psyker. One model in that unit regains d3 lost wounds. If no models in that unit have lost any wounds, but that unit has suffered one or more casualties, then 1 model is returned to that unit, in unit coherency, with 1 wound remaining.</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
           <costs>
-            <cost name=" PL" costTypeId="e356-c769-5920-6e14" value="0.0"/>
-            <cost name="pts" costTypeId="points" value="0.0"/>
+            <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+            <cost name="pts" typeId="points" value="0.0"/>
+            <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="6db8-ddf0-0492-0af2" name="4. Unbind Souls" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f207-4942-27f4-421d" type="max"/>
+          </constraints>
+          <profiles>
+            <profile id="6ee0-c3ca-e04d-da46" name="4. Unbind Souls" hidden="false" typeId="ae70-4738-0161-bec0" typeName="Psychic Power">
+              <characteristics>
+                <characteristic name="Warp Charge" typeId="5ffd-b800-c317-532a">6</characteristic>
+                <characteristic name="Range" typeId="fd64-cbc4-94de-24cc">18&quot;</characteristic>
+                <characteristic name="Details" typeId="ad96-dfa4-b4ed-656d">If manifested, select an enemy unit within 18&quot; of the psyker. Until the start of your next psychic phase, you can re-roll wound rolls for attacks made with melee weapons by Ynnari models from your army that target that enemy unit.</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+            <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+            <cost name="pts" typeId="points" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="515e-35e6-cad6-b60d" name="2. Storm of Whispers" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4b92-77ef-d76e-c591" type="max"/>
+          </constraints>
+          <profiles>
+            <profile id="dbb2-aaeb-1458-6a25" name="2. Storm of Whispers" hidden="false" typeId="ae70-4738-0161-bec0" typeName="Psychic Power">
+              <characteristics>
+                <characteristic name="Warp Charge" typeId="5ffd-b800-c317-532a">6</characteristic>
+                <characteristic name="Range" typeId="fd64-cbc4-94de-24cc">6&quot;</characteristic>
+                <characteristic name="Details" typeId="ad96-dfa4-b4ed-656d">If manifested, roll 3d6 for each enemy unit within 6&quot; of the psyker, For each roll of 6, the unit being rolled for suffers 1 mortal wound.</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+            <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+            <cost name="pts" typeId="points" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="9c6e-3be9-d393-8ab7" name="5. Shield of Ynnead" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="cf15-4982-c535-8aae" type="max"/>
+          </constraints>
+          <profiles>
+            <profile id="d01b-6dff-5607-2bbc" name="5. Shield of Ynnead" hidden="false" typeId="ae70-4738-0161-bec0" typeName="Psychic Power">
+              <characteristics>
+                <characteristic name="Warp Charge" typeId="5ffd-b800-c317-532a">7</characteristic>
+                <characteristic name="Range" typeId="fd64-cbc4-94de-24cc">6&quot;</characteristic>
+                <characteristic name="Details" typeId="ad96-dfa4-b4ed-656d">Friendly ynnari units have a 5+ invulnerable save while they are within 6&quot; of the psyker.</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name=" PL" typeId="e356-c769-5920-6e14" value="0.0"/>
+            <cost name="CP" typeId="2d3b-b544-ad49-fb75" value="0.0"/>
+            <cost name="pts" typeId="points" value="0.0"/>
           </costs>
         </selectionEntry>
       </selectionEntries>
-      <selectionEntryGroups/>
-      <entryLinks/>
     </selectionEntryGroup>
-    <selectionEntryGroup id="bd5b-50f5-f7d9-0af1" name="Warlord Trait" hidden="true" collective="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
+    <selectionEntryGroup id="bd5b-50f5-f7d9-0af1" name="Warlord Trait (Ynnari)" publicationId="6a4d-2a41-5e6b-c57a" hidden="true" collective="false" import="true">
       <modifiers>
         <modifier type="set" field="hidden" value="false">
-          <repeats/>
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="75e4-e07c-3a6d-46c5" type="equalTo"/>
+                <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="746d-c99b-ba49-17bb" type="equalTo"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifier>
+        <modifier type="set" field="8470-83da-5ba8-8ed7" value="2">
           <conditions>
-            <condition field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="33f6-60da-7b70-5fee" type="equalTo"/>
+            <condition field="selections" scope="roster" value="1.0" percentValue="false" shared="false" includeChildSelections="true" includeChildForces="true" childId="746d-c99b-ba49-17bb" type="atLeast"/>
           </conditions>
-          <conditionGroups/>
         </modifier>
       </modifiers>
       <constraints>
-        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="2aa0-b6f7-c89d-cf99" type="max"/>
         <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="96a4-7f6b-9953-cddb" type="max"/>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="false" includeChildSelections="true" includeChildForces="true" id="8470-83da-5ba8-8ed7" type="max"/>
       </constraints>
-      <categoryLinks/>
-      <selectionEntries/>
-      <selectionEntryGroups/>
       <entryLinks>
-        <entryLink id="74b8-5ca7-9631-0c98" name="Warlord Traits (BRB)" hidden="false" targetId="d442-1f03-d9da-e77f" type="selectionEntryGroup">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <constraints/>
-          <categoryLinks/>
+        <entryLink id="74b8-5ca7-9631-0c98" name="Warlord Traits (BRB)" hidden="false" collective="false" import="true" targetId="d442-1f03-d9da-e77f" type="selectionEntryGroup">
+          <modifiers>
+            <modifier type="set" field="hidden" value="true">
+              <conditionGroups>
+                <conditionGroup type="and">
+                  <conditions>
+                    <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="746d-c99b-ba49-17bb" type="equalTo"/>
+                    <condition field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="75e4-e07c-3a6d-46c5" type="equalTo"/>
+                  </conditions>
+                </conditionGroup>
+              </conditionGroups>
+            </modifier>
+          </modifiers>
         </entryLink>
-        <entryLink id="fac4-b9c9-3040-5ccd" name="Warlord Traits (CA)" hidden="false" targetId="f673-3d9b-bb1b-377f" type="selectionEntryGroup">
-          <profiles/>
-          <rules/>
-          <infoLinks/>
-          <modifiers/>
-          <constraints/>
-          <categoryLinks/>
+        <entryLink id="fac4-b9c9-3040-5ccd" name="Warlord Traits (CA)" hidden="false" collective="false" import="true" targetId="f673-3d9b-bb1b-377f" type="selectionEntryGroup">
+          <modifiers>
+            <modifier type="set" field="hidden" value="true">
+              <conditionGroups>
+                <conditionGroup type="and">
+                  <conditions>
+                    <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="746d-c99b-ba49-17bb" type="equalTo"/>
+                    <condition field="selections" scope="parent" value="0.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="75e4-e07c-3a6d-46c5" type="equalTo"/>
+                  </conditions>
+                </conditionGroup>
+              </conditionGroups>
+            </modifier>
+          </modifiers>
         </entryLink>
+        <entryLink id="8a42-5a6d-db76-fb80" name="Warlord Traits (Ynnari)" hidden="false" collective="false" import="true" targetId="2fc3-8ba7-0594-29f6" type="selectionEntryGroup"/>
+      </entryLinks>
+    </selectionEntryGroup>
+    <selectionEntryGroup id="2fc3-8ba7-0594-29f6" name="Warlord Traits (Ynnari)" hidden="true" collective="false" import="true">
+      <modifiers>
+        <modifier type="increment" field="bea3-cb2c-1bfe-4618" value="1.0">
+          <repeats>
+            <repeat field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="746d-c99b-ba49-17bb" repeats="1" roundUp="false"/>
+          </repeats>
+        </modifier>
+        <modifier type="set" field="hidden" value="false">
+          <conditions>
+            <condition field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="75e4-e07c-3a6d-46c5" type="equalTo"/>
+          </conditions>
+        </modifier>
+      </modifiers>
+      <constraints>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="07da-ef8b-9765-a70a" type="max"/>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="true" id="bea3-cb2c-1bfe-4618" type="max"/>
+      </constraints>
+      <entryLinks>
+        <entryLink id="d32a-4e4f-9e89-70c2" name="Lord of Rebirth" hidden="false" collective="false" import="true" targetId="ea9e-fd5a-6cea-6916" type="selectionEntry"/>
+        <entryLink id="8822-636b-66fd-31cf" name="Favored of Ynnead" hidden="false" collective="false" import="true" targetId="e382-0294-a92d-3a16" type="selectionEntry"/>
+        <entryLink id="6744-ba9a-1486-ceb5" name="Fear of the Grave" hidden="false" collective="false" import="true" targetId="4a28-cb5d-ee83-f278" type="selectionEntry"/>
+        <entryLink id="98d9-f883-11ac-5d45" name="Walker of Many Paths" hidden="false" collective="false" import="true" targetId="08e2-163a-bc8b-101a" type="selectionEntry"/>
+        <entryLink id="aeb4-74c1-8643-3432" name="Warden of Souls" hidden="false" collective="false" import="true" targetId="b252-9455-6755-4fbd" type="selectionEntry"/>
+        <entryLink id="6a6e-9794-71c0-7e21" name="Master of Death" hidden="false" collective="false" import="true" targetId="6c00-96aa-9088-d9b8" type="selectionEntry"/>
       </entryLinks>
     </selectionEntryGroup>
   </sharedSelectionEntryGroups>
   <sharedRules>
-    <rule id="95ba-ea44-505c-7eb7" name="Strength from Death" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <description>This ability is common to all YNNARI INFANTRY and YNNARI BIKER units and the Yncarne.  Each time a unit is completely destroyed within 7&quot; of one or more units with this ability, except in the Morale phase, pick one of those units to make a Soulburst action. That unit can immediately do one of the following, even if it has already done so in this turn (if the unit was destroyed as the result of a unit’s action – e.g. making a shooting attack or fighting – the Soulburst action is resolved after the unit has completely resolved its current action, e.g. after it has completed all of its shooting attacks or after it has finished fighting, including making any consolidation moves):
+    <rule id="95ba-ea44-505c-7eb7" name="Strength from Death" publicationId="6a4d-2a41-5e6b-c57a" page="2" hidden="false">
+      <description>This ability is common to all YNNARI units.
 
--The unit can move as if it were your Movement phase.  It can Advance or Fall Back as part of this move.
--The unit can, if it is a PSYKER, immediately attempt to manifest a single psychic power as if it were the Psychic phase.
--The unit can shoot as if it were your Shooting phase, even if it Advanced or Fell Back this turn.
--The unit can charge as if it were the Charge phase, even if it Advanced or Fell Back this turn(enemy units can fire Overwatch as normal).  A unit cannot do this if is within 1&quot; of an enemy unit.
--The Unit can fight as if it were the Fight Phase.
-
-Note that this means that a unit may be able to shoot or fight twice in the same turn.
-
-A unit can only make a Soulburst action once per turn.</description>
-    </rule>
-    <rule id="3678-7a8e-d610-0393" name="Ynnead&apos;s Will" hidden="false">
-      <profiles/>
-      <rules/>
-      <infoLinks/>
-      <modifiers/>
-      <description>Units with the ability can embark onto any AELDARI TRANSPORT, even though the transport in question might normally only permit models with other Faction keywords to do so.  All other restrictions apply normally.</description>
+As soon as any unit is destroyed, All units from your army benefit from Soulburst actions until the end of the turn. Whilst a unit is benefitting from Soulburst Actions, it always fights first in the Fight phase, even if it didn&apos;t charge. If a model that is benefitting from soulburst actions made a charge move this turn, or already has an ability that allows it to always fight first in the Fight phase, then whilst it is benfitting from soulburst actions you also add 1 to hit rolls for attacks made with melee weapons by that model. If the enemy also has units that made a charge move or that have abilities that allow them to always fight first in the fight phase, the alternate units, starting with the player whose turn is taking place.</description>
     </rule>
   </sharedRules>
-  <sharedProfiles/>
+  <sharedProfiles>
+    <profile id="ecf2-1723-edc3-0ee1" name="Corag Hai&apos;s Locket" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+      <characteristics>
+        <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Each time an enemy unit is destroyed by an attack made by the bearer, add 1 to the bearer&apos;s Move and Attacks characteristics for the remainder of the battle.</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="2cec-eb16-6120-2e36" name="Hungering Blade" hidden="false" typeId="d5f97c0b-9fc9-478d-aa34-a7c414d3ea48" typeName="Weapon">
+      <characteristics>
+        <characteristic name="Range" typeId="6fa97fa8-ea74-4a27-a0fb-bc4e5f367464">Melee</characteristic>
+        <characteristic name="Type" typeId="077c342f-d7b9-45c6-b8af-88e97cafd3a2">Melee</characteristic>
+        <characteristic name="S" typeId="59b1-319e-ec13-d466">+3</characteristic>
+        <characteristic name="AP" typeId="75aa-a838-b675-6484">-3</characteristic>
+        <characteristic name="D" typeId="ae8a-3137-d65b-4ca7">2</characteristic>
+        <characteristic name="Abilities" typeId="837d-5e63-aeb7-1410">Each unmodified wound roll of 6 made for an attack with this weapon inflicts 1 mortal wound in addition to the normal damage.</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="dc3a-a9a7-58d3-ecd8" name="Mirrorgaze" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+      <characteristics>
+        <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Subtract 1 from hit rolls for attacks that target the bearer.</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="ff90-6b1b-6dbb-2f56" name="Song of Ynnead" hidden="false" typeId="d5f97c0b-9fc9-478d-aa34-a7c414d3ea48" typeName="Weapon">
+      <characteristics>
+        <characteristic name="Range" typeId="6fa97fa8-ea74-4a27-a0fb-bc4e5f367464">18&quot;</characteristic>
+        <characteristic name="Type" typeId="077c342f-d7b9-45c6-b8af-88e97cafd3a2">Pistol 3</characteristic>
+        <characteristic name="S" typeId="59b1-319e-ec13-d466">5</characteristic>
+        <characteristic name="AP" typeId="75aa-a838-b675-6484">-1</characteristic>
+        <characteristic name="D" typeId="ae8a-3137-d65b-4ca7">1</characteristic>
+        <characteristic name="Abilities" typeId="837d-5e63-aeb7-1410">Each time you make a wound roll of 6+ for this weapon, that attack is resolved with an AP of -3. Each time an attack made with this wapon slays an enemy model the target unit subtracts 1 from its Leadership characteristic until the end of the turn.</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="315d-8e14-366e-d7f0" name="Soulsnare" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+      <characteristics>
+        <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">Once per game, instead of firing a weapon in the shooting phase, the bearer can throw the Soulsnare. If they do so, select one enemy unit within 6&quot; of and visible to the bearer, and roll a d6. On a 1, nothing happens. On a 2-5, that enemy unit suffers D3 mortal wounds and the bearer regains the same number of lost wounds. On a 6, that enemy unit suffers D6 mortal wounds and the bearer regains all of their lost wounds.</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="9a3e-ac79-bfa6-6eb1" name="The Lost Shroud" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+      <characteristics>
+        <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">All damage suffered by the bearer is halved (rounding up). In addition, roll one D6 each time this model loses a wound; on a 5+ that wound is not lost.</characteristic>
+      </characteristics>
+    </profile>
+    <profile id="dd92-bf1c-37ba-8951" name="Favoured of Ynnead" hidden="false" typeId="72c5eafc-75bf-4ed9-b425-78009f1efe82" typeName="Abilities">
+      <characteristics>
+        <characteristic name="Description" typeId="21befb24-fc85-4f52-a745-64b2e48f8228">When this Warlord piles in or consolidates, they can move up to 6&quot; instead of up to 3&quot;.</characteristic>
+      </characteristics>
+    </profile>
+  </sharedProfiles>
 </catalogue>
